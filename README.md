@@ -1,7 +1,7 @@
 ReceiptApp
 
-ReceiptApp is a SwiftUI-based application that fetches dessert and their details(instruction, ingredients and measures 
-from an API and displays them. The app is structured using the MVVM (Model-View-ViewModel) architecture to ensure a 
+ReceiptApp is a SwiftUI-based application that fetches dessert and their details(instruction, ingredients and measures)  
+from APIs and displays them. The app is structured using the MVVM (Model-View-ViewModel) architecture to ensure a 
 clear separation of concerns and maintainability.
 
 Features
@@ -21,6 +21,7 @@ Project Structure
 Getting Started
 
 Prerequisites
+
 Xcode 12 or later
 Swift 5.3 or later
 
