@@ -18,16 +18,9 @@ Project Structure
 - Views: Contains the SwiftUI views that make up the user interface (ContentView.swift, MealDetailView.swift, MealListView.swift, MealRowView.swift).
 - receiptAppApp.swift: The main entry point of the application.
 
-Getting Started
-
-Prerequisites
-
-Xcode 12 or later
-Swift 5.3 or later
 
 Installation
 
-Clone the repository:
 1. git clone https://github.com/your-username/receiptapp.git
 2. Open the project in Xcode
 3. Build and run the project using Xcode.
